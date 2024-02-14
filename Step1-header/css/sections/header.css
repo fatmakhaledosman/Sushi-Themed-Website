@@ -15,7 +15,7 @@
     position: absolute;
     inset: 0;
     width: 100%;
-    /* background-color: rgb(121,45,45);    */
+    /*background-color: rgb(121,45,45);    */
     background-color: var(--primary-color);
     z-index: 1;
 }
@@ -46,15 +46,15 @@
     color: var(--secondary-color);
     cursor: pointer;
 }
+
 .header__menu li img {
     width: 24px;
     height: 24px;
     object-fit: contain;
 }
+
 .header__menu-mobile {
     display: none;
     gap: 20px;
     position: relative;
 }
-
-

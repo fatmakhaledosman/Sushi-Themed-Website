@@ -68,3 +68,18 @@ background-color:var(--primary-color);
 ```
 #### This is powerful because you do not have to remember the actual hexadecimal color code.
 ![step1-14]()
+
+![step1-15]()
+
+![step1-16]()
+
+![step1-17]()
+
+![step1-18]()
+
+#### Add starter css file in style.css
+#### you can get it from that link https://gist.github.com/adrianhajdin/cad20aad1fefa9163a449e8feb91b602
+![]()
+
+#### Add starter Javascript file in script.css
+![]()
