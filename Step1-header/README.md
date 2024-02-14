@@ -29,4 +29,8 @@
 
 ![step1-07]()
 
+## If we are on mobile devices then we will not be able to see all these elements on the screen. so below this ul element we need to create another ul element with class="header__menu-mobile" it will be for mobile devices, and it will render just one li element that will render an image with src="images/menu.svg" and alt="menu".
+
 ![step1-08]()
+## White menu appears here, but later on they're going to be divided depending on which device size.
+
