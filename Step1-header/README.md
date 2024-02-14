@@ -34,3 +34,4 @@
 ![step1-08](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-08.png)
 ## White menu appears here, but later on they're going to be divided depending on which device size.
 
+![step1-09](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-09.png)
