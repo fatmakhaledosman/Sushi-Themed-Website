@@ -11,5 +11,10 @@
 
 }
 
-
-
+.header__logo-overlay {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    background-color: rgb(121, 45, 45);
+    z-index: 1;
+}

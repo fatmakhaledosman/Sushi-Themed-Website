@@ -38,3 +38,9 @@
 
 
 ### 7.In css/sections/header.css file,
+![step1-10]()
+#### Notice that the elements appear in a row , first the title , then ul element , then menu.
+
+![step1-11]()
+#### class of flex:1; means that it will expand however long it needs to. the sushiman is on the left side and the menu is on the right side.
+
