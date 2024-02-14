@@ -51,3 +51,20 @@ background-color: rgb(121,45,45);
 ```
 #### Every time that you use the same instance of the color you would have to manually type rgb(121,45,45).
 #### Instead, we can use CSS variables.
+#### to create css variable 
+```
+--name:"specify-the-color";
+
+--primary-color: #b1454a;
+--secondary-color: #121212;
+```
+
+![step1-13]()
+#### Add instance :root{},this allows us to create CSS variables, we can reuse them across all files by using the name of css variable later.
+
+#### in css/sections/header file, use:
+```
+background-color:var(--primary-color);
+```
+#### This is powerful because you do not have to remember the actual hexadecimal color code.
+
