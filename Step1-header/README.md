@@ -3,6 +3,7 @@
 ![step1-01](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-01.png)
 
 ### 2.Import css/sections/header.css in css/style.css
+
 ![step1-02](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-02.png)
 
 ### 3.Add the HTML5 base structure in index.html file
@@ -81,5 +82,5 @@ background-color:var(--primary-color);
 #### you can get it from that link https://gist.github.com/adrianhajdin/cad20aad1fefa9163a449e8feb91b602
 ![step1-19](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-19.png)
 
-#### Add starter Javascript file in script.css
+#### Final Header
 ![step1-20](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-20.png)
