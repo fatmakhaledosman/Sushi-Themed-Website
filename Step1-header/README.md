@@ -67,4 +67,4 @@ background-color: rgb(121,45,45);
 background-color:var(--primary-color);
 ```
 #### This is powerful because you do not have to remember the actual hexadecimal color code.
-
+![step1-14]()
