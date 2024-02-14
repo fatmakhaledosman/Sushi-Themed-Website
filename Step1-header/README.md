@@ -24,5 +24,9 @@
 ### The second list item has anchor element with href="food" and says food.
 ### The third list item has anchor element with href="services" and says services.
 ### The fourth list item has anchor element with href="about-us" and says about us.
-### The last list item has an image element with src="assets/search.svg and alt="search".
+### The last list item has an image element with src="images/search.svg and alt="search".
 ![step1-06]()
+
+![step1-07]()
+
+![step1-08]()
