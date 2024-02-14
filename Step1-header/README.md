@@ -44,3 +44,10 @@
 ![step1-11]()
 #### class of flex:1; means that it will expand however long it needs to. the sushiman is on the left side and the menu is on the right side.
 
+![step1-12]()
+#### position:absolute; means that it will not be bound to other elements on the page it will be absolutely positioned.
+```
+background-color: rgb(121,45,45);
+```
+#### Every time that you use the same instance of the color you would have to manually type rgb(121,45,45).
+#### Instead, we can use CSS variables.
