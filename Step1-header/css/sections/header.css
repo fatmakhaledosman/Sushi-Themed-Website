@@ -16,7 +16,9 @@
     inset: 0;
 }
 
-.header__logo h4 {}
+.header__logo h4 {
+    padding: 0;
+}
 
 
 
