@@ -14,8 +14,11 @@
     width: 100%;
     position: absolute;
     inset: 0;
-    background-color: rgb(121, 45, 45);
+    /* background-color: rgb(121, 45, 45); */
+    background-color: var(--primary-color);
 }
+
+
 
 .header__logo h4 {
     padding: 0;
