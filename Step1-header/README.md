@@ -37,11 +37,34 @@
 
 ![step1-09](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-09.png)
 
+---------------------------------------------
+### 7.In css/style.css file,
+![step1-10]()
+#### - The CSS margin properties are used to create space around elements, outside of any defined borders.
+#### - An element's padding is the space between its content and its border.
+#### - box-sizing: border-box; on an element ---> padding and border are included in the width and height.
+#### - Adding a smooth scrolling effect to the document.
 
 ### 7.In css/sections/header.css file,
-![step1-10](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-10.png)
-#### Notice that the elements appear in a row , first the title , then ul element , then menu.
+![step1-11]()
+#### Notice that with display:flex; the elements appear in a row , first the title (flex:1) , then the ul menu element(flex:1.235) ,then the menu-mobile (flex:1.235).
+### The CSS overflow property controls what happens to content that is too big to fit into an area.
+##### The overflow property specifies whether to clip the content or to add scrollbars when the content of an element is too big to fit in the specified area.
+##### The overflow property has the following values:
 
+   ##### visible - Default. The overflow is not clipped. The content renders outside the element's box
+   ##### hidden - The overflow is clipped, and the rest of the content will be invisible
+   ##### scroll - The overflow is clipped, and a scrollbar is added to see the rest of the content
+   ##### auto - Similar to scroll, but it adds scrollbars only when necessary
+
+##### Note: The overflow property only works for block elements with a specified height.
+
+
+
+### left-side part 
+![step1-12]()
+### position: absolute; inside position: relative;
+---------------------------------------------------------
 ![step1-11](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-11.png)
 #### class of flex:1; means that it will expand however long it needs to. the sushiman is on the left side and the menu is on the right side.
 
