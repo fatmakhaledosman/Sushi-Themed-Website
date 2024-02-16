@@ -67,13 +67,7 @@
 ### position: absolute; inside position: relative;
 ### outer div .header__logo has display:flex; and overlay has width:100%.
 
-
----------------------------------------------------------
-![step1-11](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-11.png)
-#### class of flex:1; means that it will expand however long it needs to. the sushiman is on the left side and the menu is on the right side.
-
-![step1-12](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-12.png)
-#### position:absolute; means that it will not be bound to other elements on the page it will be absolutely positioned.
+![step1-14]()
 ```
 background-color: rgb(121,45,45);
 ```
@@ -86,25 +80,26 @@ background-color: rgb(121,45,45);
 --primary-color: #b1454a;
 --secondary-color: #121212;
 ```
+![step1-15]()
 
-![step1-13](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-13.png)
-#### Add instance :root{},this allows us to create CSS variables, we can reuse them across all files by using the name of css variable later.
 
-#### in css/sections/header file, use:
-```
-background-color:var(--primary-color);
-```
-#### This is powerful because you do not have to remember the actual hexadecimal color code.
-![step1-14](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-14.png)
 
-![step1-15](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-15.png)
 
-![step1-16](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-16.png)
 
-![step1-17](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-17.png)
 
-![step1-18](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-18.png)
 
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------
 #### Add starter css file in style.css
 #### you can get it from that link https://gist.github.com/adrianhajdin/cad20aad1fefa9163a449e8feb91b602
 ![step1-19](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-19.png)
