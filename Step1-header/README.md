@@ -63,7 +63,11 @@
 
 ### left-side part 
 ![step1-12]()
+![step1-13]()
 ### position: absolute; inside position: relative;
+### outer div .header__logo has display:flex; and overlay has width:100%.
+
+
 ---------------------------------------------------------
 ![step1-11](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-11.png)
 #### class of flex:1; means that it will expand however long it needs to. the sushiman is on the left side and the menu is on the right side.
