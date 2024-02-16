@@ -108,30 +108,3 @@ background-color: rgb(121,45,45);
 
 ![step1-25](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-25.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--------------------------------------------------------------
-#### Add starter css file in style.css
-#### you can get it from that link https://gist.github.com/adrianhajdin/cad20aad1fefa9163a449e8feb91b602
-![step1-19](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-19.png)
-
-#### Final Header
-![step1-20](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-20.png)
