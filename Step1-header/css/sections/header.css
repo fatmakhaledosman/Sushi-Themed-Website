@@ -14,8 +14,7 @@
     width: 100%;
     position: absolute;
     inset: 0;
-    /* background-color: rgb(121, 45, 45); */
-    background-color: var(--primary-color);
+    background-color: rgb(121, 45, 45);
 }
 
 .header__logo h4 {
