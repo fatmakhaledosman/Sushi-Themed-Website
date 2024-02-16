@@ -39,14 +39,16 @@
 
 ---------------------------------------------
 ### 7.In css/style.css file,
-![step1-10]()
+![step1-10](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-10.png)
+
 #### - The CSS margin properties are used to create space around elements, outside of any defined borders.
 #### - An element's padding is the space between its content and its border.
 #### - box-sizing: border-box; on an element ---> padding and border are included in the width and height.
 #### - Adding a smooth scrolling effect to the document.
 
 ### 7.In css/sections/header.css file,
-![step1-11]()
+![step1-11](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-11.png)
+
 #### Notice that with display:flex; the elements appear in a row , first the title (flex:1) , then the ul menu element(flex:1.235) ,then the menu-mobile (flex:1.235).
 ### The CSS overflow property controls what happens to content that is too big to fit into an area.
 ##### The overflow property specifies whether to clip the content or to add scrollbars when the content of an element is too big to fit in the specified area.
@@ -62,12 +64,14 @@
 
 
 ### left-side part 
-![step1-12]()
-![step1-13]()
+![step1-12](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-12.png)
+
+![step1-13](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-13.png)
+
 ### position: absolute; inside position: relative;
 ### outer div .header__logo has display:flex; and overlay has width:100%.
 
-![step1-14]()
+![step1-14](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-14.png)
 ```
 background-color: rgb(121,45,45);
 ```
@@ -80,23 +84,29 @@ background-color: rgb(121,45,45);
 --primary-color: #b1454a;
 --secondary-color: #121212;
 ```
-![step1-15]()
-![step1-16]()
+![step1-15](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-15.png)
+
+![step1-16](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-16.png)
 
 
-![step1-17]()
+![step1-17](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-17.png)
+
 ### Right side part
-![step1-18]()
+![step1-18](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-18.png)
 
-![step1-19]()
+![step1-19](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-19.png)
 
-![step1-20]()
+![step1-20](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-20.png)
 
-![step1-21]()
+![step1-21](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-21.png)
 
-![step1-22]()
+![step1-22](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-22.png)
 
-![step1-23]()
+![step1-23](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-23.png)
+
+![step1-24](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-24.png)
+
+![step1-25](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-25.png)
 
 
 
