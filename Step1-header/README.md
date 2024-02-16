@@ -88,6 +88,10 @@ background-color: rgb(121,45,45);
 ### Right side part
 ![step1-18]()
 
+![step1-19]()
+
+![step1-20]()
+
 
 
 
