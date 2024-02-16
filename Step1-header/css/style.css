@@ -35,13 +35,13 @@
     scroll-behavior: smooth;
 }
 
-/*
+
 body {
     max-width: 1280px;
     margin: 0 auto;
     background-color: var(--color-creamson);
 }
-*/
+
 a {
     text-decoration: none;
     color: inherit;
