@@ -92,4 +92,28 @@
 
 ![step2-32]()
 
- 
+### 19.Target the buttons that have a class .hero-content__buttons, give it margin: 41px 0 0 41px; 41px on the top and left side, display: flex; for the items to appear in a row as well as flex-wrap: wrap; because if we do not have enough width on the screen, they are going to wrap one below another and then give it gap: 36px; to give it some space.
+
+### then target the first button that has a class .hero-content__order-button. Give it padding: 20px, border-radius: 36px, min-width: 212px, outline: none to remove the ugly outline as well as border: none ,change the  background-color: var(--secondary-color),change cursor: pointer to make it clickable, give it color: #fff , increase the font-weight: 500 to make it bolder, change font-size: 18px ,as weel as line-height: 23px;
+
+### Target the second button that has a class .hero-content__play-button. Give it border: none, outline: none, background: transparent, display: flex, align-items: center, font-size: 16px, line-height: 19px, color: var(--black-200), font-family: var(--plus-jakarta-sans), cursor: pointer.
+
+### Target the image inside the button , you can select it by write .hero-content__play-button img , Give it a margin-right: 12px to move it a bit from the text, give it  width: 46px, height: 46px and object-fit: contain to ensure that it always keep the same aspect ratio.
+
+![step2-33]()
+![step2-34]()
+![step2-35]()
+![step2-36]()
+![step2-37]()
+
+
+### 20.Target the hero-content__testimonial div and give it  padding: 32px on top and bottom and  64px on left and right to give it some space. give it a display of  flex for the elements to appear in a row. give it a flex-wrap propertyset to  wrap so on smaller devices they can still appear normally and gap of 20px. and change the background to var(--color-white).
+
+![step2-38]()
+
+### 21.Change the customer div by saying .hero-content__customer , Give it a flex of 1 which will make it take the majority of space and then a gap of 10 pixels. 
+ ![step2-39]()
+
+### 22. Edit the h4 and p tag ,Select .hero-content__customer h4 to target h4 tag within hero-content__customer div. we can give it a font-size of 62px, font-weight of 400, and a font-family of var(--playfair-display) .and for a p tag within hero-content__customer div. select .hero-content__customer p e can give it a font-size of 16px, font-weight of 400, and a font-family of var(--plus-jakarta-sans),color of var(--secondary-color) and opacity of 0.5 .
+
+
