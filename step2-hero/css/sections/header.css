@@ -26,7 +26,7 @@
 
 .header__menu,
 .header__menu-mobile {
-    flex: 1.235;
+    flex: 1.236;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -56,4 +56,3 @@
     gap: 20px;
     position: relative;
 }
-

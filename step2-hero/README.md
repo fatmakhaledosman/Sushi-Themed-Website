@@ -49,13 +49,10 @@
 
 ### 12.Below the hero-content-info div, Create a new div with class="hero-content__testimonial". Inside it , Create another div with class="hero-content__customer" and another class=" flex-center". Ii will contain the 24000 happy customers. you can do it by crating <h4>24<span>k+</span></h4>, below it in a p tag <p>Happy Customers</p>.
 
-![step2-17]()
-
-![step2-18]()
 
 ### 13.Below hero-content__testimonial div, Create a new div with a class="hero-content__review", Inside it add an image with src="images/user.png" alt="user" and below it add a p tag  <p>"This is the best Japanese food delivery service that ever existed."</p>.
 
-![step2-19]()
+![step2-17]()
 
 ![step2-20]()
 
@@ -112,8 +109,26 @@
 ![step2-38]()
 
 ### 21.Change the customer div by saying .hero-content__customer , Give it a flex of 1 which will make it take the majority of space and then a gap of 10 pixels. 
- ![step2-39]()
+![step2-39]()
 
 ### 22. Edit the h4 and p tag ,Select .hero-content__customer h4 to target h4 tag within hero-content__customer div. we can give it a font-size of 62px, font-weight of 400, and a font-family of var(--playfair-display) .and for a p tag within hero-content__customer div. select .hero-content__customer p e can give it a font-size of 16px, font-weight of 400, and a font-family of var(--plus-jakarta-sans),color of var(--secondary-color) and opacity of 0.5 .
+![step2-40]()
+
+![step2-41]()
+
+### 23. Modify the .hero-content__review by giving it flex: 1 to take all the remaining space . we have a flex:1 on the customer and a flex:1 of review which means that they are gonna both take 50% of the space. give it display: flex, align-items: center so they are vertically aligned. give it gap: 10px , and padding-left: 20px to divide it from the content on the left. and give it  border: 1px solid rgba(2, 2, 2, 0.1). This will make it barely visible of course we do not want to turn this into an entire box we just want to make it a border of left there ,and give it min-width:200px.
+![step2-42]()
+
+### 24. Let's style the image to make it a bit smaller . Target hero-content__review and then target the image, giving it a width of 42px,a height of 42px as well an object-fit of contain for it to manage its aspect ratio.
+![step2-43]()
+
+### 25. Style the p tag by targeting hero-content__review then p tag, giving it a font-size of 12px, font-weight of 400,line-height: 32px,font-family: var(--plus-jakarta-sans),a color: var(--secondary-color) and opacity of 0.8.
+
+![step2-44]()
+
+![step2-45]()
 
 
+### 26. There is a bit of a gap here between our navigation bar and the overlay. Let's fix that by going back to header__menu , give it flex:1.236 in header.css file.  
+
+![step2-46]()
