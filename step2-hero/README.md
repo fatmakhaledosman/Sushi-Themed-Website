@@ -1,6 +1,6 @@
 # Step2-heroSection 😊
 
-![step2]()
+![step2](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step2-hero/images-readme-file/img2.png)
 
 ### 1.Below the header, create HTML5 semantic section tag with class="hero".start with sushi image, So create a div and that div will have a class="hero-image", within it create a self-closing image tag with src="images/sushi-1.png" and alt="sushi".
 
