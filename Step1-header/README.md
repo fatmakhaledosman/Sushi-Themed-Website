@@ -1,4 +1,8 @@
 # Step1-header 😊
+![step1](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1.png)
+
+![step1-1](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-1.png)
+
 ### 1.Create Sushi website structure
 ![step1-01](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/Step1-header/images-readme-file/img1-01.png)
 
