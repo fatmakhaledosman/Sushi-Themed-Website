@@ -30,9 +30,9 @@
 ![step3-06](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step3-about-us/images-readme-file/img3-06.png)
 
 ### Create css/sections/about.css file to start adding style.
-![step3-07]()
+![step3-07](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step3-about-us/images-readme-file/img3-07.png)
 ### Import that file in css/style.css file.
-![step3-08]()
+![step3-08](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step3-about-us/images-readme-file/img3-08.png)
 ### Add style to primary div that is wrapping the entire content. That has a class="about-us" . Give it display: flex,as well as a min-height: 720px, and overflow: hidden.
 ![step3-09]()
 
