@@ -9,14 +9,14 @@
 ### Inside about-us section, Create a div with a class="about-us__image" and inside it:
 
 ### First: Create a div with a class="about-us__image-sushi3" and inside it, Add the image element with src="images/sushi-3.png" and alt="sushi".
-![step3-03]()
+![step3-03](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step3-about-us/images-readme-file/img3-03.png)
 
 ### Second: Below the about-us__image-sushi3 div that contining the image, Create a button with a class="about-us__button" and add an image with a src="images/arrow-up-right.svg" and alt="learn more".
 
-![step3-04]()
+![step3-04](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step3-about-us/images-readme-file/img3-04.png)
 
 ### Third: Create a div with a class="about-us__image-sushi2" and inside it, Add the image element with src="images/sushi-2.png" and alt="sushi".
-![step3-05]()
+![step3-05](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step3-about-us/images-readme-file/img3-05.png)
 
 ### Part Two- the right side:
 ### Below the about-us__image div, create a div with a class="about-us__content", inside it, 
@@ -27,7 +27,14 @@
 ### Third: Below h3 element, Create an p element with a class="sushi__description"
 ### <p class="sushi__description"> We will continue to provide the experience of Omotenashi, the Japanese mindset of hospitality, with our shopping and dining for our customers. </p>
 
-![step3-06]()
+![step3-06](https://github.com/fatmakhaledosman/Sushi-Themed-Website-step-by-step/blob/main/step3-about-us/images-readme-file/img3-06.png)
+
+### Create css/sections/about.css file to start adding style.
+![step3-07]()
+### Import that file in css/style.css file.
+![step3-08]()
+### Add style to primary div that is wrapping the entire content. That has a class="about-us" . Give it display: flex,as well as a min-height: 720px, and overflow: hidden.
+![step3-09]()
 
 
 
