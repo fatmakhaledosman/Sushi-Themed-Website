@@ -102,8 +102,18 @@
 ![step4-36]()
 
 ### The active element is the middle one. It is bigger than other. so target the .popular-foods__card.active-card. Give it background: #fff, min-width: 340px. 
+### Target the .popular-foods__card.active-card .popular-foods__card-image. Give it width: 214px and height: 160px.
 
+### Then target  .popular-foods__card.active-card .popular-foods__card-title. Give it color: var(--black-500) and font-size: 32px.
+
+### Then target .popular-foods__card.active-card .popular-foods__card-rating img . Give it width: 32px and  height: 32px.
+
+### Then target .popular-foods__card.active-card .popular-foods__card-rating p . Give it font-size: 24px and color: var(--gray-100).
+
+### Then target .popular-foods__card.active-card .popular-foods__card-price . Give it font-size: 24px and color: var(--secondary-color).
 ![step4-37]()
+![step4-38]()
+![step4-39]()
 
 
 
